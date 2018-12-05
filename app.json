@@ -1,0 +1,15 @@
+{
+  "name": "visitor-client-application",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
